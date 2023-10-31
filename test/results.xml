@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1698770907" />
+    <testcase name="test_printf" classname="cpu" file="/home/jakubjerabek/Skola/INP/Proj1/zadani/test/scripts/cpu_lib.py" lineno="142" time="12.978564262390137" sim_time_ns="1000055.000001" ratio_time="77054.36285421833">
+      <failure />
+    </testcase>
+  </testsuite>
+</testsuites>

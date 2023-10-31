@@ -1,0 +1,4 @@
+v 4
+file "/home/jakubjerabek/Skola/INP/Proj1/zadani/test/" "../src/cpu.vhd" "ed5a293dd0377f34eafb79316a31548d1d9aae9a" "20231031164826.897":
+  entity cpu at 6( 214) + 2 on 11;
+  architecture behavioral of cpu at 58( 2630) + 0 on 12;
